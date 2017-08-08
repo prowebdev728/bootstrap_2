@@ -1,5 +1,5 @@
-# bootstrap_2
+# PSD to HTML/CSS
 
-I implemented pixel perfect design with responsive UI. 
-
-This page is fully mobile responsive, user friendly and cross-brower compatible.
+HTML5/CSS3
+Bootstrap 3
+JavaScript/jQuery
